@@ -1,0 +1,9 @@
+# 📁 backend/requirements.txt
+Flask
+Flask-Cors
+Flask-JWT-Extended
+Flask-Migrate
+Flask-SQLAlchemy
+Werkzeug
+python-dotenv
+psycopg2-binary
